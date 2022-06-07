@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&family=Macondo&family=Merienda&family=Merriweather&family=Montserrat&family=Playball&family=Sacramento&family=Ubuntu:wght@300&family=Yanone+Kaffeesatz:wght@300;400&display=swap');
+
+body {
+  background-color: #FAD4D4;
+}
+
+.container {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-family: 'Ceviche One', cursive;
+  font-size: 3rem;
+  color: #7D1E6A;
+}
+
+h1 {
+  font-size: 7.5rem;
+  margin: 40px;
+  font-family: 'Playball', cursive;
+  color: #7D1E6A;
+}
+
+img {
+  width: 90%;
+}
